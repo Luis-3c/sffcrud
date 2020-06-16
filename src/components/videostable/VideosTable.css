@@ -1,0 +1,23 @@
+.videos-table {
+      /* background-color: rgb(216, 204, 230); */
+      font-family: 'IBM Plex Sans Condensed', sans-serif;
+      position: relative;
+}
+
+th {
+    margin: 3%;
+    background-color: rgb(55, 75, 80);
+    color: white;
+    text-align: center;
+}
+td{
+    padding-right:11px;
+}
+
+.video-row:hover {
+    background-color: rgb(207, 208, 209);
+}
+
+hr {
+    border: solid 1px rgb(121, 121, 121);
+}
