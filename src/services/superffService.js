@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 /* const ENDPOINT = 'https://superflyfitnessapi.herokuapp.com'; */
-const ENDPOINT = 'https://superflyfitnessapi.herokuapp.com/';
+const ENDPOINT = 'https://superflyfitnessapi.herokuapp.com';
 
 const config = {
   headers: {
